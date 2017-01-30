@@ -11,6 +11,7 @@ public class Uppgift1 : MonoBehaviour {
 	// Use this for initialization
 	void Start () 
 	{
+		// Här säger vi att det ska skrivas ut vad resultat av a+b blir
 		Debug.Log ("a" + a);
 		Debug.Log ("b" + b);
 		int c = a;
